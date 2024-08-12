@@ -1,0 +1,11 @@
+E:\InvoicePrint\Boniyadi\BoniyadiInvoice.Domain\bin\Debug\net8.0\BoniyadiInvoice.Domain.deps.json
+E:\InvoicePrint\Boniyadi\BoniyadiInvoice.Domain\bin\Debug\net8.0\BoniyadiInvoice.Domain.dll
+E:\InvoicePrint\Boniyadi\BoniyadiInvoice.Domain\bin\Debug\net8.0\BoniyadiInvoice.Domain.pdb
+E:\InvoicePrint\Boniyadi\BoniyadiInvoice.Domain\obj\Debug\net8.0\BoniyadiInvoice.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\InvoicePrint\Boniyadi\BoniyadiInvoice.Domain\obj\Debug\net8.0\BoniyadiInvoice.Domain.AssemblyInfoInputs.cache
+E:\InvoicePrint\Boniyadi\BoniyadiInvoice.Domain\obj\Debug\net8.0\BoniyadiInvoice.Domain.AssemblyInfo.cs
+E:\InvoicePrint\Boniyadi\BoniyadiInvoice.Domain\obj\Debug\net8.0\BoniyadiInvoice.Domain.csproj.CoreCompileInputs.cache
+E:\InvoicePrint\Boniyadi\BoniyadiInvoice.Domain\obj\Debug\net8.0\BoniyadiInvoice.Domain.dll
+E:\InvoicePrint\Boniyadi\BoniyadiInvoice.Domain\obj\Debug\net8.0\refint\BoniyadiInvoice.Domain.dll
+E:\InvoicePrint\Boniyadi\BoniyadiInvoice.Domain\obj\Debug\net8.0\BoniyadiInvoice.Domain.pdb
+E:\InvoicePrint\Boniyadi\BoniyadiInvoice.Domain\obj\Debug\net8.0\ref\BoniyadiInvoice.Domain.dll

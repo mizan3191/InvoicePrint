@@ -1,0 +1,1 @@
+E:\InvoicePrint\Boniyadi\BoniyadiInvoice\BoniyadiInvoice.csproj;x64

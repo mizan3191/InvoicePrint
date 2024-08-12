@@ -1,0 +1,17 @@
+E:\InvoicePrint\Boniyadi\BoniyadiInvoice.DataAccess\bin\Debug\net8.0\BoniyadiInvoice.DataAccess.deps.json
+E:\InvoicePrint\Boniyadi\BoniyadiInvoice.DataAccess\bin\Debug\net8.0\BoniyadiInvoice.DataAccess.dll
+E:\InvoicePrint\Boniyadi\BoniyadiInvoice.DataAccess\bin\Debug\net8.0\BoniyadiInvoice.DataAccess.pdb
+E:\InvoicePrint\Boniyadi\BoniyadiInvoice.DataAccess\bin\Debug\net8.0\Boniyadi.Infrastructure.dll
+E:\InvoicePrint\Boniyadi\BoniyadiInvoice.DataAccess\bin\Debug\net8.0\BoniyadiInvoice.Domain.dll
+E:\InvoicePrint\Boniyadi\BoniyadiInvoice.DataAccess\bin\Debug\net8.0\Boniyadi.Infrastructure.pdb
+E:\InvoicePrint\Boniyadi\BoniyadiInvoice.DataAccess\bin\Debug\net8.0\BoniyadiInvoice.Domain.pdb
+E:\InvoicePrint\Boniyadi\BoniyadiInvoice.DataAccess\obj\Debug\net8.0\BoniyadiInvoice.DataAccess.csproj.AssemblyReference.cache
+E:\InvoicePrint\Boniyadi\BoniyadiInvoice.DataAccess\obj\Debug\net8.0\BoniyadiInvoice.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\InvoicePrint\Boniyadi\BoniyadiInvoice.DataAccess\obj\Debug\net8.0\BoniyadiInvoice.DataAccess.AssemblyInfoInputs.cache
+E:\InvoicePrint\Boniyadi\BoniyadiInvoice.DataAccess\obj\Debug\net8.0\BoniyadiInvoice.DataAccess.AssemblyInfo.cs
+E:\InvoicePrint\Boniyadi\BoniyadiInvoice.DataAccess\obj\Debug\net8.0\BoniyadiInvoice.DataAccess.csproj.CoreCompileInputs.cache
+E:\InvoicePrint\Boniyadi\BoniyadiInvoice.DataAccess\obj\Debug\net8.0\Boniyadi.7977F4C5.Up2Date
+E:\InvoicePrint\Boniyadi\BoniyadiInvoice.DataAccess\obj\Debug\net8.0\BoniyadiInvoice.DataAccess.dll
+E:\InvoicePrint\Boniyadi\BoniyadiInvoice.DataAccess\obj\Debug\net8.0\refint\BoniyadiInvoice.DataAccess.dll
+E:\InvoicePrint\Boniyadi\BoniyadiInvoice.DataAccess\obj\Debug\net8.0\BoniyadiInvoice.DataAccess.pdb
+E:\InvoicePrint\Boniyadi\BoniyadiInvoice.DataAccess\obj\Debug\net8.0\ref\BoniyadiInvoice.DataAccess.dll
