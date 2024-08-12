@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\InvoicePrint\\Boniyadi\\Boniyadi\\Boniyadi.Web.csproj",
+      "projectUniqueName": "E:\\InvoicePrint\\InvoicePrint\\src\\Boniyadi\\Boniyadi\\Boniyadi.Web.csproj",
       "projectName": "Boniyadi.Web",
-      "projectPath": "E:\\InvoicePrint\\Boniyadi\\Boniyadi\\Boniyadi.Web.csproj",
+      "projectPath": "E:\\InvoicePrint\\InvoicePrint\\src\\Boniyadi\\Boniyadi\\Boniyadi.Web.csproj",
       "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-      "outputPath": "E:\\InvoicePrint\\Boniyadi\\Boniyadi\\obj\\",
+      "outputPath": "E:\\InvoicePrint\\InvoicePrint\\src\\Boniyadi\\Boniyadi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,27 +1,27 @@
 {
   "Files": [
     {
-      "Id": "E:\\InvoicePrint\\Boniyadi\\BoniyadiInvoice\\obj\\Debug\\net8.0-android\\scopedcss\\bundle\\BoniyadiInvoice.styles.css",
+      "Id": "E:\\InvoicePrint\\InvoicePrint\\src\\Boniyadi\\BoniyadiInvoice\\obj\\Debug\\net8.0-android\\scopedcss\\bundle\\BoniyadiInvoice.styles.css",
       "PackagePath": "staticwebassets\\BoniyadiInvoice.styles.css"
     },
     {
-      "Id": "E:\\InvoicePrint\\Boniyadi\\BoniyadiInvoice\\wwwroot\\css\\app.css",
+      "Id": "E:\\InvoicePrint\\InvoicePrint\\src\\Boniyadi\\BoniyadiInvoice\\wwwroot\\css\\app.css",
       "PackagePath": "staticwebassets\\css\\app.css"
     },
     {
-      "Id": "E:\\InvoicePrint\\Boniyadi\\BoniyadiInvoice\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Id": "E:\\InvoicePrint\\InvoicePrint\\src\\Boniyadi\\BoniyadiInvoice\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Id": "E:\\InvoicePrint\\Boniyadi\\BoniyadiInvoice\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Id": "E:\\InvoicePrint\\InvoicePrint\\src\\Boniyadi\\BoniyadiInvoice\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Id": "E:\\InvoicePrint\\Boniyadi\\BoniyadiInvoice\\wwwroot\\favicon.png",
+      "Id": "E:\\InvoicePrint\\InvoicePrint\\src\\Boniyadi\\BoniyadiInvoice\\wwwroot\\favicon.png",
       "PackagePath": "staticwebassets\\favicon.png"
     },
     {
-      "Id": "E:\\InvoicePrint\\Boniyadi\\BoniyadiInvoice\\wwwroot\\index.html",
+      "Id": "E:\\InvoicePrint\\InvoicePrint\\src\\Boniyadi\\BoniyadiInvoice\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
     },
     {

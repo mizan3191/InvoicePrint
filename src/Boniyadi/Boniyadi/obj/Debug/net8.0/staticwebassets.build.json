@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "0pXfoE2GoMF9YGWhAKbt8NfQYTxF7ckrWu0KgFjhiak=",
+  "Hash": "hl3HGgtkt3qaXigsIibXyIowyCN9R3oQHqqo16HLgyQ=",
   "Source": "Boniyadi.Web",
   "BasePath": "_content/Boniyadi.Web",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "Boniyadi.Web\\wwwroot",
       "Source": "Boniyadi.Web",
-      "ContentRoot": "E:\\InvoicePrint\\Boniyadi\\Boniyadi\\wwwroot\\",
+      "ContentRoot": "E:\\InvoicePrint\\InvoicePrint\\src\\Boniyadi\\Boniyadi\\wwwroot\\",
       "BasePath": "_content/Boniyadi.Web",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "E:\\InvoicePrint\\Boniyadi\\Boniyadi\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Boniyadi.Web.styles.css",
+      "Identity": "E:\\InvoicePrint\\InvoicePrint\\src\\Boniyadi\\Boniyadi\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Boniyadi.Web.styles.css",
       "SourceId": "Boniyadi.Web",
       "SourceType": "Computed",
-      "ContentRoot": "E:\\InvoicePrint\\Boniyadi\\Boniyadi\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "E:\\InvoicePrint\\InvoicePrint\\src\\Boniyadi\\Boniyadi\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/Boniyadi.Web",
       "RelativePath": "Boniyadi.Web.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "E:\\InvoicePrint\\Boniyadi\\Boniyadi\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Boniyadi.Web.styles.css"
+      "OriginalItemSpec": "E:\\InvoicePrint\\InvoicePrint\\src\\Boniyadi\\Boniyadi\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Boniyadi.Web.styles.css"
     },
     {
-      "Identity": "E:\\InvoicePrint\\Boniyadi\\Boniyadi\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Boniyadi.Web.bundle.scp.css",
+      "Identity": "E:\\InvoicePrint\\InvoicePrint\\src\\Boniyadi\\Boniyadi\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Boniyadi.Web.bundle.scp.css",
       "SourceId": "Boniyadi.Web",
       "SourceType": "Computed",
-      "ContentRoot": "E:\\InvoicePrint\\Boniyadi\\Boniyadi\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "E:\\InvoicePrint\\InvoicePrint\\src\\Boniyadi\\Boniyadi\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/Boniyadi.Web",
       "RelativePath": "Boniyadi.Web.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "E:\\InvoicePrint\\Boniyadi\\Boniyadi\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Boniyadi.Web.bundle.scp.css"
+      "OriginalItemSpec": "E:\\InvoicePrint\\InvoicePrint\\src\\Boniyadi\\Boniyadi\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Boniyadi.Web.bundle.scp.css"
     },
     {
-      "Identity": "E:\\InvoicePrint\\Boniyadi\\Boniyadi\\wwwroot\\app.css",
+      "Identity": "E:\\InvoicePrint\\InvoicePrint\\src\\Boniyadi\\Boniyadi\\wwwroot\\app.css",
       "SourceId": "Boniyadi.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\InvoicePrint\\Boniyadi\\Boniyadi\\wwwroot\\",
+      "ContentRoot": "E:\\InvoicePrint\\InvoicePrint\\src\\Boniyadi\\Boniyadi\\wwwroot\\",
       "BasePath": "_content/Boniyadi.Web",
       "RelativePath": "app.css",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\app.css"
     },
     {
-      "Identity": "E:\\InvoicePrint\\Boniyadi\\Boniyadi\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Identity": "E:\\InvoicePrint\\InvoicePrint\\src\\Boniyadi\\Boniyadi\\wwwroot\\bootstrap\\bootstrap.min.css",
       "SourceId": "Boniyadi.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\InvoicePrint\\Boniyadi\\Boniyadi\\wwwroot\\",
+      "ContentRoot": "E:\\InvoicePrint\\InvoicePrint\\src\\Boniyadi\\Boniyadi\\wwwroot\\",
       "BasePath": "_content/Boniyadi.Web",
       "RelativePath": "bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "E:\\InvoicePrint\\Boniyadi\\Boniyadi\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "E:\\InvoicePrint\\InvoicePrint\\src\\Boniyadi\\Boniyadi\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "Boniyadi.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\InvoicePrint\\Boniyadi\\Boniyadi\\wwwroot\\",
+      "ContentRoot": "E:\\InvoicePrint\\InvoicePrint\\src\\Boniyadi\\Boniyadi\\wwwroot\\",
       "BasePath": "_content/Boniyadi.Web",
       "RelativePath": "bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "E:\\InvoicePrint\\Boniyadi\\Boniyadi\\wwwroot\\favicon.png",
+      "Identity": "E:\\InvoicePrint\\InvoicePrint\\src\\Boniyadi\\Boniyadi\\wwwroot\\favicon.png",
       "SourceId": "Boniyadi.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\InvoicePrint\\Boniyadi\\Boniyadi\\wwwroot\\",
+      "ContentRoot": "E:\\InvoicePrint\\InvoicePrint\\src\\Boniyadi\\Boniyadi\\wwwroot\\",
       "BasePath": "_content/Boniyadi.Web",
       "RelativePath": "favicon.png",
       "AssetKind": "All",

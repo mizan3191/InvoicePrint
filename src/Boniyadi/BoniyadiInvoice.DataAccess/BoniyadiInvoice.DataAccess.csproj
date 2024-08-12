@@ -12,7 +12,6 @@
 	</ItemGroup>
 
 	<ItemGroup>
-	  <ProjectReference Include="..\Boniyadi.Infrastructure\Boniyadi.Infrastructure.csproj" />
 	  <ProjectReference Include="..\BoniyadiInvoice.Domain\BoniyadiInvoice.Domain.csproj" />
 	</ItemGroup>
 

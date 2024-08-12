@@ -3,17 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35122.118
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoniyadiInvoice", "BoniyadiInvoice\BoniyadiInvoice.csproj", "{F7F3E28E-B915-43AE-9514-BE8858BD540E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BoniyadiInvoice", "BoniyadiInvoice\BoniyadiInvoice.csproj", "{F7F3E28E-B915-43AE-9514-BE8858BD540E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoniyadiInvoice.API", "BoniyadiInvoice.API\BoniyadiInvoice.API.csproj", "{7ADA9EB6-5C2B-46FE-9934-3ACB4B3F7F2D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BoniyadiInvoice.API", "BoniyadiInvoice.API\BoniyadiInvoice.API.csproj", "{7ADA9EB6-5C2B-46FE-9934-3ACB4B3F7F2D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoniyadiInvoice.Domain", "BoniyadiInvoice.Domain\BoniyadiInvoice.Domain.csproj", "{122E1D60-D3B0-44DF-B396-F752143F6F03}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BoniyadiInvoice.Domain", "BoniyadiInvoice.Domain\BoniyadiInvoice.Domain.csproj", "{122E1D60-D3B0-44DF-B396-F752143F6F03}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoniyadiInvoice.DataAccess", "BoniyadiInvoice.DataAccess\BoniyadiInvoice.DataAccess.csproj", "{CE6B296C-723C-4396-B51B-9C75236CCE13}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BoniyadiInvoice.DataAccess", "BoniyadiInvoice.DataAccess\BoniyadiInvoice.DataAccess.csproj", "{CE6B296C-723C-4396-B51B-9C75236CCE13}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Boniyadi.Web", "Boniyadi\Boniyadi.Web.csproj", "{768E8ACB-2D92-474F-A4A6-3D1764D2C9A2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoniyadiInvoice.Web", "BoniyadiInvoice.Web\BoniyadiInvoice.Web.csproj", "{1F055C05-4F47-4DC0-B259-A43BF2D3D0F6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Boniyadi.Infrastructure", "Boniyadi.Infrastructure\Boniyadi.Infrastructure.csproj", "{3EF1F0B7-306E-44C0-ADDA-DC52B4DB09EE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoniyadiInvoice.Infrastructure", "BoniyadiInvoice.Infrastructure\BoniyadiInvoice.Infrastructure.csproj", "{ECDD3F54-FDA4-4BD0-A3E6-56BE867DCC04}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,14 +39,14 @@ Global
 		{CE6B296C-723C-4396-B51B-9C75236CCE13}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CE6B296C-723C-4396-B51B-9C75236CCE13}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CE6B296C-723C-4396-B51B-9C75236CCE13}.Release|Any CPU.Build.0 = Release|Any CPU
-		{768E8ACB-2D92-474F-A4A6-3D1764D2C9A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{768E8ACB-2D92-474F-A4A6-3D1764D2C9A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{768E8ACB-2D92-474F-A4A6-3D1764D2C9A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{768E8ACB-2D92-474F-A4A6-3D1764D2C9A2}.Release|Any CPU.Build.0 = Release|Any CPU
-		{3EF1F0B7-306E-44C0-ADDA-DC52B4DB09EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{3EF1F0B7-306E-44C0-ADDA-DC52B4DB09EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{3EF1F0B7-306E-44C0-ADDA-DC52B4DB09EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{3EF1F0B7-306E-44C0-ADDA-DC52B4DB09EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F055C05-4F47-4DC0-B259-A43BF2D3D0F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F055C05-4F47-4DC0-B259-A43BF2D3D0F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F055C05-4F47-4DC0-B259-A43BF2D3D0F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F055C05-4F47-4DC0-B259-A43BF2D3D0F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECDD3F54-FDA4-4BD0-A3E6-56BE867DCC04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECDD3F54-FDA4-4BD0-A3E6-56BE867DCC04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECDD3F54-FDA4-4BD0-A3E6-56BE867DCC04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECDD3F54-FDA4-4BD0-A3E6-56BE867DCC04}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

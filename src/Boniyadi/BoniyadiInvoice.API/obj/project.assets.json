@@ -1590,26 +1590,10 @@
           }
         }
       },
-      "Boniyadi.Infrastructure/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v8.0",
-        "dependencies": {
-          "BoniyadiInvoice.Domain": "1.0.0",
-          "Microsoft.EntityFrameworkCore": "8.0.7",
-          "Microsoft.EntityFrameworkCore.SqlServer": "8.0.7"
-        },
-        "compile": {
-          "bin/placeholder/Boniyadi.Infrastructure.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Boniyadi.Infrastructure.dll": {}
-        }
-      },
       "BoniyadiInvoice.DataAccess/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
-          "Boniyadi.Infrastructure": "1.0.0",
           "BoniyadiInvoice.Domain": "1.0.0",
           "Microsoft.EntityFrameworkCore": "8.0.7",
           "Microsoft.EntityFrameworkCore.SqlServer": "8.0.7"
@@ -4573,11 +4557,6 @@
         "useSharedDesignerContext.txt"
       ]
     },
-    "Boniyadi.Infrastructure/1.0.0": {
-      "type": "project",
-      "path": "../Boniyadi.Infrastructure/Boniyadi.Infrastructure.csproj",
-      "msbuildProject": "../Boniyadi.Infrastructure/Boniyadi.Infrastructure.csproj"
-    },
     "BoniyadiInvoice.DataAccess/1.0.0": {
       "type": "project",
       "path": "../BoniyadiInvoice.DataAccess/BoniyadiInvoice.DataAccess.csproj",
@@ -4606,11 +4585,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\InvoicePrint\\Boniyadi\\BoniyadiInvoice.API\\BoniyadiInvoice.API.csproj",
+      "projectUniqueName": "E:\\InvoicePrint\\InvoicePrint\\src\\Boniyadi\\BoniyadiInvoice.API\\BoniyadiInvoice.API.csproj",
       "projectName": "BoniyadiInvoice.API",
-      "projectPath": "E:\\InvoicePrint\\Boniyadi\\BoniyadiInvoice.API\\BoniyadiInvoice.API.csproj",
+      "projectPath": "E:\\InvoicePrint\\InvoicePrint\\src\\Boniyadi\\BoniyadiInvoice.API\\BoniyadiInvoice.API.csproj",
       "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-      "outputPath": "E:\\InvoicePrint\\Boniyadi\\BoniyadiInvoice.API\\obj\\",
+      "outputPath": "E:\\InvoicePrint\\InvoicePrint\\src\\Boniyadi\\BoniyadiInvoice.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -4633,11 +4612,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "E:\\InvoicePrint\\Boniyadi\\BoniyadiInvoice.DataAccess\\BoniyadiInvoice.DataAccess.csproj": {
-              "projectPath": "E:\\InvoicePrint\\Boniyadi\\BoniyadiInvoice.DataAccess\\BoniyadiInvoice.DataAccess.csproj"
+            "E:\\InvoicePrint\\InvoicePrint\\src\\Boniyadi\\BoniyadiInvoice.DataAccess\\BoniyadiInvoice.DataAccess.csproj": {
+              "projectPath": "E:\\InvoicePrint\\InvoicePrint\\src\\Boniyadi\\BoniyadiInvoice.DataAccess\\BoniyadiInvoice.DataAccess.csproj"
             },
-            "E:\\InvoicePrint\\Boniyadi\\BoniyadiInvoice.Domain\\BoniyadiInvoice.Domain.csproj": {
-              "projectPath": "E:\\InvoicePrint\\Boniyadi\\BoniyadiInvoice.Domain\\BoniyadiInvoice.Domain.csproj"
+            "E:\\InvoicePrint\\InvoicePrint\\src\\Boniyadi\\BoniyadiInvoice.Domain\\BoniyadiInvoice.Domain.csproj": {
+              "projectPath": "E:\\InvoicePrint\\InvoicePrint\\src\\Boniyadi\\BoniyadiInvoice.Domain\\BoniyadiInvoice.Domain.csproj"
             }
           }
         }

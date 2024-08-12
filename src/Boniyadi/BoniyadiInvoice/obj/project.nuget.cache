@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "a0QbtpXlOGQ=",
+  "dgSpecHash": "iSV1AJFXCx4=",
   "success": true,
-  "projectFilePath": "E:\\InvoicePrint\\Boniyadi\\BoniyadiInvoice\\BoniyadiInvoice.csproj",
+  "projectFilePath": "E:\\InvoicePrint\\InvoicePrint\\src\\Boniyadi\\BoniyadiInvoice\\BoniyadiInvoice.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\USER\\.nuget\\packages\\googlegson\\2.10.1.4\\googlegson.2.10.1.4.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.aspnetcore.authorization\\8.0.0\\microsoft.aspnetcore.authorization.8.0.0.nupkg.sha512",

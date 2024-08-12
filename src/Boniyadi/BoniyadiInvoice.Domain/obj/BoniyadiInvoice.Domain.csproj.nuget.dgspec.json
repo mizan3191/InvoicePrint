@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\InvoicePrint\\Boniyadi\\BoniyadiInvoice.Domain\\BoniyadiInvoice.Domain.csproj": {}
+    "E:\\InvoicePrint\\InvoicePrint\\src\\Boniyadi\\BoniyadiInvoice.Domain\\BoniyadiInvoice.Domain.csproj": {}
   },
   "projects": {
-    "E:\\InvoicePrint\\Boniyadi\\BoniyadiInvoice.Domain\\BoniyadiInvoice.Domain.csproj": {
+    "E:\\InvoicePrint\\InvoicePrint\\src\\Boniyadi\\BoniyadiInvoice.Domain\\BoniyadiInvoice.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\InvoicePrint\\Boniyadi\\BoniyadiInvoice.Domain\\BoniyadiInvoice.Domain.csproj",
+        "projectUniqueName": "E:\\InvoicePrint\\InvoicePrint\\src\\Boniyadi\\BoniyadiInvoice.Domain\\BoniyadiInvoice.Domain.csproj",
         "projectName": "BoniyadiInvoice.Domain",
-        "projectPath": "E:\\InvoicePrint\\Boniyadi\\BoniyadiInvoice.Domain\\BoniyadiInvoice.Domain.csproj",
+        "projectPath": "E:\\InvoicePrint\\InvoicePrint\\src\\Boniyadi\\BoniyadiInvoice.Domain\\BoniyadiInvoice.Domain.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "E:\\InvoicePrint\\Boniyadi\\BoniyadiInvoice.Domain\\obj\\",
+        "outputPath": "E:\\InvoicePrint\\InvoicePrint\\src\\Boniyadi\\BoniyadiInvoice.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

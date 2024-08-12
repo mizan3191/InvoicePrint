@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2Tw1uubg/bo=",
+  "dgSpecHash": "uY9lfRDWfF0=",
   "success": true,
-  "projectFilePath": "E:\\InvoicePrint\\Boniyadi\\BoniyadiInvoice.Domain\\BoniyadiInvoice.Domain.csproj",
+  "projectFilePath": "E:\\InvoicePrint\\InvoicePrint\\src\\Boniyadi\\BoniyadiInvoice.Domain\\BoniyadiInvoice.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BoniyadiInvoice")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+1db7ab5700b7ab9b9f29807783027117c359afc1")]
 [assembly: System.Reflection.AssemblyProductAttribute("BoniyadiInvoice")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BoniyadiInvoice")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

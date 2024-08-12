@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IKDNK5sRi20=",
+  "dgSpecHash": "bNv55aIXunQ=",
   "success": true,
-  "projectFilePath": "E:\\InvoicePrint\\Boniyadi\\BoniyadiInvoice.DataAccess\\BoniyadiInvoice.DataAccess.csproj",
+  "projectFilePath": "E:\\InvoicePrint\\InvoicePrint\\src\\Boniyadi\\BoniyadiInvoice.DataAccess\\BoniyadiInvoice.DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\USER\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
